@@ -1,0 +1,22 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "pages/home";
+
+@import "components/button";
+@import "components/composition";
+@import "components/step-item";
+
+@import "layout/grid";
+@import "layout/header";
+
+
+$color-primary: #f14b4b;
+$color-primary-light: #fa6b5b;
+$color-grey: #cccccc;
