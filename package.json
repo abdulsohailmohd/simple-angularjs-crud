@@ -1,0 +1,14 @@
+{
+  "name": "table",
+  "version": "1.0.0",
+  "description": "Table with some functionality with AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Sohail",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
